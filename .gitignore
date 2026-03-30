@@ -1,0 +1,12 @@
+Literature/
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+*.rdp
+.vscode/
+ML_GFA_env/
+Data/Paper Data/
+Data/tc_logs/
+Data/TC_OUTPUTS/
+Data/
